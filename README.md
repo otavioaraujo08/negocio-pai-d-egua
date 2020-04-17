@@ -1,11 +1,11 @@
-# negocio-pai-d-egua
+# Negócio Pai d'Égua
 
 
 
-Descrição:
+# Descrição:
 
 
-Funções:
+# Funções:
 
 
-Integrantes do Projeto:
+# Integrantes do Projeto:
