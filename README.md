@@ -3,8 +3,7 @@
 # Descrição:
 
 * CONTEXTO
-  Auxiliar pequenos comerciantes a melhorarem seus estabelecimentos e serviços disponibilizando internet
-aos proprietários e seus clientes, além de um aplicativo para gestão de pedidos.
+   Devido a pandemia do Coronavirus, pequenos e médios comerciantes foram afetados de modo que tenham de funcionar com um número reduzido de funcionarios ou clientes. Dessa forma, foi pensado um aplicativo de gestão de pedidos e cardápio para facilitar o retorno desses locais. 
 
 * JUSTIFICATIVA
   Tomando-se conhecimento de que pequenos estabelecimentos comerciais não possuem ponto de acesso
@@ -35,7 +34,7 @@ uso de um aplicativo para gerir os negócios.
   - Roteador
   
 # Processos concluidos: 
-* App cliente: https://d5anf.glideapp.io/
+*
 
 # Integrantes do Projeto:
   - Marcos Aguiar Parente(aguiar.marcos20@gmail.com)
